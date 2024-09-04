@@ -1,1 +1,2 @@
 Some testing text
+More text to test commit
